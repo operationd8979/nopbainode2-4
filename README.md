@@ -1,2 +1,2 @@
-# 19Mar
-<h1>heheehhee</h1>
+# 02/04
+<img src="/shots/shot1.png">
